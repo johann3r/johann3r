@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am an experienced digital Art Director & UI Designer. I have recently successfully completed a frontend development bootcamp.<br>🌱 I am currently working on enhancing my developer skills.<br>👯‍♀️ I am eager to collaborate on projects, explore innovative methods, and connect with like-minded and passionate individuals.<br>
+🔭 I'm an experienced digital Art Director & UI Designer. I have recently successfully completed a frontend development bootcamp.<br>🌱 I'm currently working on enhancing my developer skills.<br>👯‍♀️ I'm eager to collaborate on projects, explore innovative methods, and connect with like-minded and passionate individuals.<br>
 
 
 ## 🌐 Socials:
